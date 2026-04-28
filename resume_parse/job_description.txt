@@ -1,0 +1,4 @@
+Development of C libraries for protocols in the NetSim framework
+Protocol development in 5G, IOT, and Mobile Adhoc Networks
+Enhancement of the protocol stack, simulation kernel and post processing engine
+Simulation trace data analysis and machine learning

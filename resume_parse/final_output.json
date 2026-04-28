@@ -1,0 +1,198 @@
+{
+  "resume": {
+    "name": "Bugmita Bora",
+    "email": "borabugmita009@gmail.com",
+    "skills": [
+      "C",
+      "C++",
+      "JavaScript",
+      "R",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "React.js",
+      "Redux.js",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "GitHub",
+      "MATLAB",
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming (OOP)",
+      "REST APIs",
+      "Responsive Web Design",
+      "Linux",
+      "Windows",
+      "Leadership",
+      "Event Management",
+      "Teamwork"
+    ],
+    "experience": {
+      "total_years": 0,
+      "breakdown": [
+        {
+          "company": "Google Developer Group on Campus",
+          "role": "Junior Web Developer",
+          "type": "real_company",
+          "duration_years": 0,
+          "points": 0
+        },
+        {
+          "company": "Google Developer Group on Campus",
+          "role": "Public Relations Team Member",
+          "type": "real_company",
+          "duration_years": 0,
+          "points": 0
+        },
+        {
+          "company": "NITS HACK 8.0",
+          "role": "Organizing Team Member",
+          "type": "real_company",
+          "duration_years": 0,
+          "points": 0
+        },
+        {
+          "company": "Google Agentic AI Workshop",
+          "role": "Junior Lead PR",
+          "type": "real_company",
+          "duration_years": 0,
+          "points": 0
+        }
+      ]
+    },
+    "projects": [
+      {
+        "name": "E-OFFICE",
+        "type": "college",
+        "scale": "users",
+        "technologies": [
+          "React.js",
+          "Node.js",
+          "CSS"
+        ],
+        "points": 2
+      },
+      {
+        "name": "Interactive Social Media Web App",
+        "type": "personal",
+        "scale": null,
+        "technologies": [
+          "React.js",
+          "CSS",
+          "JavaScript"
+        ],
+        "points": 5
+      }
+    ],
+    "leadership": {
+      "has_leadership": true,
+      "details": [
+        {
+          "company": "Google Agentic AI Workshop",
+          "role": "Junior Lead PR",
+          "type": "real_company",
+          "points": 15
+        },
+        {
+          "company": "NITS HACK 8.0",
+          "role": "Organizing Team Member",
+          "type": "college",
+          "points": 1
+        }
+      ]
+    },
+    "scoring_summary": {
+      "experience_points": 0,
+      "project_points": 7,
+      "leadership_points": 16,
+      "total_points": 23,
+      "level": "junior",
+      "level_reason": "Total points fall within the junior range (11-25)"
+    }
+  },
+  "job_description": {
+    "job_title": null,
+    "company": null,
+    "required_skills": [
+      "C",
+      "NetSim",
+      "5G",
+      "IOT",
+      "Mobile Adhoc Networks"
+    ],
+    "preferred_skills": [
+      "Machine Learning"
+    ],
+    "experience_needed": {
+      "min_years": 3,
+      "max_years": 6,
+      "level": "mid"
+    },
+    "tech_stack": [
+      "C",
+      "NetSim"
+    ],
+    "responsibilities": [
+      "Protocol Development",
+      "Simulation Trace Data Analysis"
+    ],
+    "education": null,
+    "job_type": null
+  },
+  "skill_gap": {
+    "matching_skills": [
+      "C"
+    ],
+    "missing_required_skills": [
+      "NetSim",
+      "5G",
+      "IOT",
+      "Mobile Adhoc Networks"
+    ],
+    "missing_preferred_skills": [
+      "Machine Learning"
+    ],
+    "level_analysis": {
+      "candidate_level": "junior",
+      "job_required_level": "mid",
+      "is_match": false,
+      "comment": "The candidate's junior level does not match the mid-level requirement of the job."
+    },
+    "match_score": 20,
+    "match_verdict": "Poor Match",
+    "courses": [
+      {
+        "skill": "NetSim",
+        "course_name": "Network Simulator Course",
+        "platform": "Udemy",
+        "duration": "10 hours"
+      },
+      {
+        "skill": "5G",
+        "course_name": "5G Network Fundamentals",
+        "platform": "Coursera",
+        "duration": "20 hours"
+      },
+      {
+        "skill": "IOT",
+        "course_name": "Internet of Things (IOT) Course",
+        "platform": "YouTube",
+        "duration": "15 hours"
+      },
+      {
+        "skill": "Machine Learning",
+        "course_name": "Machine Learning with Python",
+        "platform": "Coursera",
+        "duration": "30 hours"
+      },
+      {
+        "skill": "Mobile Adhoc Networks",
+        "course_name": "Mobile Adhoc Networks Course",
+        "platform": "Udemy",
+        "duration": "12 hours"
+      }
+    ],
+    "overall_advice": "To increase the chances of getting hired, focus on acquiring the missing required skills and consider taking courses to upskill. Additionally, gaining experience and moving to a mid-level position will be beneficial. Tailor your resume and cover letter to highlight any relevant skills and projects."
+  }
+}

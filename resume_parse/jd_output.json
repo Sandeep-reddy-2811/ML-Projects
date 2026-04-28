@@ -1,0 +1,35 @@
+{
+  "job_title": null,
+  "company": null,
+  "required_skills": [
+    "C",
+    "NetSim framework",
+    "5G",
+    "IOT",
+    "Mobile Adhoc Networks",
+    "protocol development",
+    "simulation",
+    "machine learning"
+  ],
+  "preferred_skills": [],
+  "experience_needed": {
+    "min_years": null,
+    "max_years": null,
+    "level": null
+  },
+  "tech_stack": [
+    "C",
+    "NetSim"
+  ],
+  "responsibilities": [
+    "Development of C libraries for protocols",
+    "Protocol development",
+    "Enhancement of the protocol stack",
+    "Enhancement of simulation kernel",
+    "Enhancement of post processing engine",
+    "Simulation trace data analysis",
+    "Machine learning"
+  ],
+  "education": null,
+  "job_type": null
+}

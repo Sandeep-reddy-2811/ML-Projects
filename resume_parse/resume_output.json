@@ -1,0 +1,100 @@
+{
+  "name": "Bugmita Bora",
+  "email": "borabugmita009@gmail.com",
+  "skills": [
+    "C",
+    "C++",
+    "JavaScript",
+    "R",
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Bootstrap",
+    "React.js",
+    "Redux.js",
+    "Node.js",
+    "Express.js",
+    "Git",
+    "GitHub",
+    "MATLAB",
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming (OOP)",
+    "REST APIs",
+    "Responsive Web Design",
+    "Linux",
+    "Windows"
+  ],
+  "experience": {
+    "total_years": 0,
+    "breakdown": [
+      {
+        "company": "National Institute of Technology Silchar",
+        "role": "Student",
+        "type": "college",
+        "duration_years": 4,
+        "points": 8
+      },
+      {
+        "company": "Google Developer Group on Campus",
+        "role": "Junior Web Developer",
+        "type": "real_company",
+        "duration_years": 0.5,
+        "points": 5
+      }
+    ],
+    "total_experience_points": 13
+  },
+  "projects": [
+    {
+      "name": "E-OFFICE",
+      "type": "college",
+      "description": "A centralized form submission and approval system for 5+ departments",
+      "scale": null,
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "CSS"
+      ],
+      "points": 5
+    },
+    {
+      "name": "Interactive Social Media Web App",
+      "type": "personal",
+      "description": "A social networking interface featuring posts and commenting functionality",
+      "scale": null,
+      "technologies": [
+        "React.js",
+        "CSS",
+        "JavaScript"
+      ],
+      "points": 5
+    }
+  ],
+  "total_project_points": 10,
+  "leadership": {
+    "has_leadership": true,
+    "details": [
+      {
+        "where": "Google Agentic AI Workshop",
+        "type": "college",
+        "team_size": null,
+        "points": 1
+      },
+      {
+        "where": "NITS HACK 8.0",
+        "type": "college",
+        "team_size": null,
+        "points": 1
+      }
+    ],
+    "total_leadership_points": 2
+  },
+  "scoring_summary": {
+    "experience_points": 13,
+    "project_points": 10,
+    "leadership_points": 2,
+    "total_points": 25,
+    "level": "junior",
+    "level_reason": "Total points fall within the junior range"
+  }
+}

@@ -1,0 +1,5 @@
+.env
+resume_parse/.env
+node_modules/
+__pycache__/
+*.pyc

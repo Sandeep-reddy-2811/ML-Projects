@@ -1,0 +1,68 @@
+{
+  "matching_skills": [
+    "C"
+  ],
+  "missing_required_skills": [
+    "NetSim framework",
+    "5G",
+    "IOT",
+    "Mobile Adhoc Networks",
+    "protocol development",
+    "simulation",
+    "machine learning"
+  ],
+  "missing_preferred_skills": [],
+  "level_analysis": {
+    "candidate_level": "junior",
+    "job_required_level": "None",
+    "is_match": true,
+    "comment": "No level specified for the job"
+  },
+  "match_score": 12,
+  "match_verdict": "Poor Match",
+  "courses": [
+    {
+      "skill": "NetSim framework",
+      "course_name": "NetSim Framework Tutorial",
+      "platform": "YouTube",
+      "duration": "10 hours"
+    },
+    {
+      "skill": "5G",
+      "course_name": "5G Networks and Beyond",
+      "platform": "Coursera",
+      "duration": "30 hours"
+    },
+    {
+      "skill": "IOT",
+      "course_name": "Internet of Things (IOT) Certification Course",
+      "platform": "Udemy",
+      "duration": "20 hours"
+    },
+    {
+      "skill": "Mobile Adhoc Networks",
+      "course_name": "Mobile Adhoc Networks Tutorial",
+      "platform": "YouTube",
+      "duration": "5 hours"
+    },
+    {
+      "skill": "protocol development",
+      "course_name": "Network Protocol Development",
+      "platform": "Udemy",
+      "duration": "15 hours"
+    },
+    {
+      "skill": "simulation",
+      "course_name": "Simulation for Networking and Communications",
+      "platform": "Coursera",
+      "duration": "25 hours"
+    },
+    {
+      "skill": "machine learning",
+      "course_name": "Machine Learning Crash Course",
+      "platform": "Udemy",
+      "duration": "40 hours"
+    }
+  ],
+  "overall_advice": "The candidate has a strong foundation in programming but lacks the required skills for the job. It's recommended to take the suggested courses to fill the skill gaps and gain relevant experience in the field."
+}
